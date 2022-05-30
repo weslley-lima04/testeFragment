@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:contentDescription="Casa"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home"
+        android:title="Início" />
+    <item
+        android:id="@+id/contatos"
+        android:contentDescription="Contatos"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person"
+        android:title="Contatos" />
+    <item
+        android:id="@+id/config"
+        android:contentDescription="Configurações"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_settings"
+        android:title="Configurações" />
+
+</menu>
